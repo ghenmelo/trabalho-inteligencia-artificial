@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.align{
+  flex-wrap: wrap;
+}
+.formato{
+  border-left: 35px;
+  border-top: 35px;
+  border-color: transparent;
+  border-style: solid;
+  
+}

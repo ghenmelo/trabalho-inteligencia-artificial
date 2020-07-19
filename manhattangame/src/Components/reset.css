@@ -1,0 +1,12 @@
+.resetButton{
+    padding: 23px;
+    border-radius: 50%;
+    margin-top: 15px;
+    position: fixed;
+    margin-left: 16px;
+    background-image: url("../img/refresh.png");
+    background-size: 46px;
+    background-color: transparent;
+    background-position-y: 0.20px;
+    border: transparent;
+}

@@ -1,0 +1,29 @@
+.startButton {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  height: 48px;
+  width: 550px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 17px;
+  margin-left: 70px;
+  margin-top: 15px;
+}
+
+.startButtonResolucao {
+  background-color: #b43a8f; /* Green */
+  border: none;
+  color: white;
+  height: 48px;
+  width: 550px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 17px;
+  margin-left: 70px;
+  margin-top: 15px;
+}
