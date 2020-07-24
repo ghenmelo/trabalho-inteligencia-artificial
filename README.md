@@ -1,8 +1,18 @@
+
+
+
+
+
 # trabalhoIA
 
   Trabalho de Inteligência artificial 
  
   Trabalho da disciplina de Inteligência Artificial da Universidade Federal de Lavras (UFLA), lecionada pelo professor Ahmed Ali Abdalla Esmin e produzido pelo aluno Guilherme Henrique de Melo. Design produzido por @mfparussulo .
+  
+  
+| Tela Inicial  | Tela de Resolução |
+| ------------- | ------------- |
+| <img src="manhattangame/src/img/TelaInicial.png?raw=true" width="200">  | <img src="manhattangame/src/img/TelaResolucao.png?raw=true" width="200">  |
   
  ## Automatic Manhattan
   
