@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './textBox.css'
+import './buttonContent.css'
 
 export default props => {
     const [numero, setNumero] = useState(0)

@@ -10,5 +10,9 @@
   border-top: 35px;
   border-color: transparent;
   border-style: solid;
-  
+}
+
+h1 {
+  color: white;
+  font-weight: bolder;
 }

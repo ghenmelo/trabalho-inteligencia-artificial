@@ -9,13 +9,10 @@ import Reset from '../Components/reset'
 export default () => {
   let matrizNumeros = Array(3)
 
-  matrizNumeros[0] = Array(3)
-  matrizNumeros[1] = Array(3)
-  matrizNumeros[2] = Array(3)
+  matrizNumeros[0] = Array(3).fill(0)
+  matrizNumeros[1] = Array(3).fill(0)
+  matrizNumeros[2] = Array(3).fill(0)
 
-  matrizNumeros[0].fill(0)
-  matrizNumeros[1].fill(0)
-  matrizNumeros[2].fill(0)
 
   const [numerosJaAlocados, setNumerosJaAlocados] = useState(matrizNumeros)
 
