@@ -2,7 +2,7 @@
 
   Trabalho de Inteligência artificial 
  
-  Trabalho da disciplina de Inteligência Artificial da Universidade Federal de Lavras (UFLA), lecionada pelo professor Ahmed Ali Abdalla Esmin e produzido pelo aluno Guilherme Henrique de Melo
+  Trabalho da disciplina de Inteligência Artificial da Universidade Federal de Lavras (UFLA), lecionada pelo professor Ahmed Ali Abdalla Esmin e produzido pelo aluno Guilherme Henrique de Melo. Design produzido por @mfparussulo .
   
   O trabalha tem como objetivo recriar o jogo Manhattan de forma automatizada. Aplicando 1 heurística (Criada pelo aluno) e uma resolução de força bruta. Também é necessário a criação de uma interface gráfica.
   
