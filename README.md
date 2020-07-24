@@ -29,3 +29,7 @@
  ## How it works
   
   A página possui um tabuleiro onde cada posição pode ser preenchida com um número de 1 até 8, clicando repetidamente para aumentar o número em determinada posição, e quando somente restar 1 posição deve ser preenchida com mais 1 clique, dessa forma colocando o valor "vazio" do jogo Manhattan. Neste momento existem três possíveis caminhos, selecionar o botão reset, para reiniciar o tabuleiro ou escolher uma das duas resoluções para tentar resolver o tabuleiro. Como foram implementadas uma resolução em força bruta e outra sendo heurística é possível que não seja encontrada uma resolução para o tabuleiro, dessa forma o programa retornará um pop up avisando. No caso que o tabuleiro foi resolvido, um aparecerá um botão "Resolução" onde é possível observar cada passo que o algoritmo levou para terminar. Nessa nova página existe um tabuleiro com a resolução, um botão de tentar novamente para voltar à página inicial e 2 botões de "->" e "<-" onde pode caminhar entre os passos feitos pelo algoritmo. A posição verde no board significa a posição futura da posição vazia e a posição vermelha representa a posição passada da posição vazia.
+ 
+## Warning
+
+No caso do board escolhido for muito complicado para o algortimo, ele ficará processando por um longo tempo até conseguir resolver ou até sua guia no navegador ficará sem responder. No caso de resolução aparecerá um novo botão para selecionar.
